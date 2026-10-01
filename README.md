@@ -2,7 +2,7 @@
 
 Repositório dedicado à centralização, organização e validação do meu aprendizado contínuo.
 
-## ☁️ MongoDB
+## MongoDB
 
 | Certificação / Curso | Emissor | Data | Validação Oficial | Comprovante Local |
 | :--- | :--- | :---: | :---: | :---: |
