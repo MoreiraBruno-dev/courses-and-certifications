@@ -16,8 +16,8 @@
 
 | Certificação / Curso | Emissor | Data | Validação Oficial | Comprovante Local |
 | :--- | :--- | :---: | :---: | :---: |
-| **Programação para dispositivos móveis (básico)** | IFMG | Out/2026 | N/A | [PDF]() |
+| **Programação para dispositivos móveis (básico)** | IFMG | Out/2026 | N/A | [PDF](./comprovantes/programacao-moveis-basico.pdf) |
 
 | Certificação / Curso | Emissor | Data | Validação Oficial | Comprovante Local |
 | :--- | :--- | :---: | :---: | :---: |
-| **Programação para dispositivos móveis (avançado)** | IFMG | Out/2026 | N/A | [PDF]() |
+| **Programação para dispositivos móveis (avançado)** | IFMG | Out/2026 | N/A | [PDF](./comprovantes/programacao-moveis-avancado.pdf) |
